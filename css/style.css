@@ -6,9 +6,8 @@
   box-sizing: border-box;
 }
 /* share style */
-.font-size{
 
-}
+/* share style end */
 body{
   font-family: "Azeret Mono", monospace;
 }
@@ -95,7 +94,7 @@ color:rgb(255, 255, 255);
  height: 336px;
  margin: 0 auto;
  margin-top: 50px;
- /* border: 1px solid red; */
+ border: 1px solid red;
  display: flex;
  justify-content: space-between;
  padding: 50px;
@@ -116,9 +115,7 @@ color:rgb(255, 255, 255);
   opacity: 0.7;
 
 }
-.left-content{
-  
-}
+
 .left-content-title{
   font-size: 32px;
   font-weight: 700;
@@ -164,4 +161,6 @@ margin-right: 50px;
   font-size: 20px;
   color: rgb(13, 19, 33);
 }
-
+.right-image2{
+  padding-left: 120px;
+}
