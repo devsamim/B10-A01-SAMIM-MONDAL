@@ -164,3 +164,37 @@ margin-right: 50px;
 .right-image2{
   padding-left: 120px;
 }
+/* my inspiration style  */
+.my-inspiration-container{
+  width: 1140px;
+  height: 775px;
+  margin: 0 auto;
+  margin-top: 80px;
+  /* border: 1px solid red; */
+
+}
+.inspiration-title{
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-top: 50px;
+}
+.inspiration-description{
+  text-align: center;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 0.7);
+  opacity: 0.7;
+
+}
+.inspiration-youtube{
+  width: 1076px;
+  height: 550px;
+  margin: 0 auto;
+  margin-top: 80px;
+  /* border: 1px solid rebeccapurple; */
+  
+}
+.youtube-video{
+  border-radius: 16px;
+}
